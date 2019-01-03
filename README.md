@@ -1,1 +1,1 @@
-# colorRect.github.io
+https://colorrect.github.io/
